@@ -20,7 +20,7 @@ This modern streaming architecture accelerates time-to-insight while providing r
 
 ## 📌 High-Level Architecture
 
-![Project Architecture](docs/architecture.png)
+![Project Architecture](https://github.com/bousettayounes/Real-Time-Processing-of-Users-Data/blob/main/architecture/system%20architecture.png)
 
 - **Core Components**:  
   - **Docker**: Containerization platform for deployment
