@@ -74,8 +74,6 @@ The pipeline follows the Kappa architecture pattern, focusing on stream processi
 
 ## 🔥 Data Pipeline Components
 
-![Data Pipeline Flow](docs/data_flow.png)
-
 The data pipeline is structured into four major components:
 
 ### Data Ingestion (Kafka & Schema Registry)
