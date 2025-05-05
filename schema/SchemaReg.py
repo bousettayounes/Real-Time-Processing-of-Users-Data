@@ -28,10 +28,8 @@ avro_schema = {
 # Convert the Avro schema to a JSON string
 schema_str = json.dumps(avro_schema)
 
-# Create a Schema object
 schema = Schema(schema_str, schema_type="AVRO")
 
-# Register the schema
 try:
     schema_id = schema_registry_client.register_schema(subject_name="API_Data-value", schema=schema)
     print(f"Schema registered successfully. Schema ID: {schema_id}")
