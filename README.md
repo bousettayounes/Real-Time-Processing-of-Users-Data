@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a comprehensive real-time data streaming pipeline using the Kappa architecture to process user data from generation to storage.
+This project implements a comprehensive real-time data streaming pipeline using the Kappa architecture to process user data from source to storage.
 The solution leverages a suite of industry-standard technologies to transform raw user data streams into processed, queryable information through efficient real-time processing.
 
 ---
